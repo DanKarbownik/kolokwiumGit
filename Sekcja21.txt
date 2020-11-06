@@ -2,3 +2,4 @@ Zmiana01
 Minimalizacja GUI
 Uproszczenie ustawień
 BardzoNiePotrzebnaZmiana
+Testy

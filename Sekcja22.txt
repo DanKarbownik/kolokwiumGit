@@ -3,3 +3,4 @@ Poprawka#1
 Zmiana2
 Zmiana3
 BardzoNiePotrzebnaZmiana2
+Zmiana4
